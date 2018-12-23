@@ -1,4 +1,1 @@
-// Start a terminal with the 'terminal' button on the lower right of the Launcher.  (Click the '+' button to the right of 'Files' to start the Launcher)
-// Run the setup.sh file (`./first-neural-network/setup.sh`)
-// Follow the instructions to get your JWT and then
-// replace the entire contents of this file with the contents of your downloaded JWT file.
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1ZGFjaXR5X2tleSI6IjY5NzUwODU3OSIsImV4cCI6MTU3NzExNTkwNX0.uds7wbVNowzYmnaVrO6jawQR_Xpt_aEE5Ku3Urw5hA8
